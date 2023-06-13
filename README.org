@@ -1,0 +1,10 @@
+* tailrec
+
+A simple macro to optimize a function for tail recursion
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/charJe/tailrec.git   |
+| commit  | 6f88284  |
+| systems | tailrec |
+|---------+-------------------------------------------|
+
